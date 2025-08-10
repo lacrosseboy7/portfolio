@@ -568,6 +568,10 @@ footer p {
     height: 40vh;
   }
   
+  #projects {
+    margin-bottom: 4rem;
+  }
+  
   #profile {
     height: fit-content;
     margin-bottom: 0;
@@ -637,6 +641,11 @@ footer p {
   section {
     margin: 0 2%;
     padding-top: 1vh;
+  }
+  
+  #projects {
+    margin-bottom: 5rem;
+    padding-bottom: 2rem;
   }
   
   .title {
